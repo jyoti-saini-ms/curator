@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 )
 
-const maxDurationsSize = 250000000
+const maxDurationsSize = 550000000
 
 type PerformanceStatistics struct {
 	counters struct {
